@@ -2,7 +2,7 @@
 # Nome do projeto
  Global Impact-IOT
 
-**nome dos alunos:**
+**Nome dos alunos:** <br>
 Luiz Phelipe - 86330, <br>
 Christian Chang - 86360, <br>
 Paulo Sérgio- 85873, <br>
