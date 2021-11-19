@@ -16,7 +16,7 @@ Caio Augusto - 82953 <br>
 2021
 
 **Link do video de demonstração de funcionamento**
-https://drive.google.com/file/d/1KaJleHPobeqCSfFcw5uxx9-tm4f29Y6p/view?usp=sharing
+https://drive.google.com/file/d/14nZdKoOTIpP3fJz3nVzNI-NlJelHW7zu/view?usp=sharing
 
 **Requisitos**
 Necessário a instalação das bibliotecas : pandas, matplotlib, sklearn.
