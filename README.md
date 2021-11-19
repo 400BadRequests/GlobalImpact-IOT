@@ -15,6 +15,9 @@ Caio Augusto - 82953 <br>
 **Ano:**
 2021
 
+**Link do video de demonstração de funcionamento**
+https://drive.google.com/file/d/1KaJleHPobeqCSfFcw5uxx9-tm4f29Y6p/view?usp=sharing
+
 **Requisitos**
 Necessário a instalação das bibliotecas : pandas, matplotlib, sklearn.
 Necessário a instalação do JUPYTER_NOTEBOOK : pip install jupyter. Leia este artigo em caso de duvidas : https://www.alura.com.br/artigos/conhecendo-o-jupyter-notebook?gclid=Cj0KCQiAkNiMBhCxARIsAIDDKNU0JA7bMnCHC8zq1gPEBmTHjHN4TnEIqng3eUigi8yZVTDBRaDhx5IaAhWdEALw_wcB.
